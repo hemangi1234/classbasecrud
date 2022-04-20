@@ -1,0 +1,57 @@
+{
+  "user": [
+    {
+      "vehicle": [],
+      "name": "NHJHJHJ",
+      "id": 2
+    },
+    {
+      "vehicle": [],
+      "name": "hjhj",
+      "id": 4
+    },
+    {
+      "vehicle": [],
+      "name": "ghjhj",
+      "id": 5
+    },
+    {
+      "city": [
+        "suart"
+      ],
+      "vehicle": [],
+      "email": "user@gmail.com",
+      "name": "yghj",
+      "id": 9,
+      "password": "jhbn",
+      "gender": "female"
+    },
+    {
+      "city": [],
+      "name": "admin",
+      "password": "hbg",
+      "email": "user@gmail.com",
+      "id": 11
+    },
+    {
+      "city": [
+        "rajkot"
+      ],
+      "name": "hemangi",
+      "password": "hemangi1",
+      "email": "user@gmail.com",
+      "gender": "other",
+      "id": 12
+    },
+    {
+      "city": [
+        "suart"
+      ],
+      "name": "1juk",
+      "password": "2kji",
+      "email": "userkj@gmail.com",
+      "gender": "female",
+      "id": 14
+    }
+  ]
+}

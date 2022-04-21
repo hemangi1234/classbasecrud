@@ -10,8 +10,7 @@ class Tabledata extends Component {
         this.loadUsers();
     }
     loadUsers = async () => {
-        const result = await axios.get("http://localhost:3000/user/")
-        console.log(result.data);
+        const result = await axios.get("http://localhost:3000/user")
         this.setState({ users: result.data })
     };
 
